@@ -1,1 +1,1 @@
-# easterparallax
+# Easter-themed Parallax site
