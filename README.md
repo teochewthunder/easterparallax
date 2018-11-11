@@ -6,4 +6,4 @@ The latter effect is achieved by using *fixed* in the CSS *background* property.
 
 ## Note 
 
-This is not a *great* example of a beautiful Parallaz Site, but the basic idea is there. Design could be improved on.
+This is not a *great* example of a beautiful Parallax Site, but the basic idea is there. Design could be improved on.
